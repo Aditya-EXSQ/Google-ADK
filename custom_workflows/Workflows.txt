@@ -16,4 +16,11 @@ Tool1   Tool2
    Response
 
 
-l
+3. Orchestrator Agent
+      /        \
+   Agent-1     Agent-2
+      |          |
+         \    /   (Agent-1 and Agent-2 run in Parallel)
+            |
+         Agent-3
+      
