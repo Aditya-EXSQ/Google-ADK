@@ -1,0 +1,19 @@
+Workflows :-
+
+1. Orchestrator Agent
+        |
+     Agent 1 (Tells best countries to visit)
+        |
+     Agent 2 (Tells best cities in the respective countries)
+
+
+2. Agent 
+   /   \
+Tool1   Tool2
+      |
+(Parallel Tool Calling)
+      |
+   Response
+
+
+l
